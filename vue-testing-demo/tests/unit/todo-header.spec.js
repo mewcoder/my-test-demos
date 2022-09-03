@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import TodoHeader from '@/components/TodoApp/TodoHeader.vue'
+import TodoHeader from '@/components/todo-header.vue'
 
 describe('TodoHeader.vue', () => {
   let wrapper = null

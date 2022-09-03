@@ -1,5 +1,5 @@
 import { createLocalVue, mount } from '@vue/test-utils'
-import TodoFooter from '@/components/TodoApp/TodoFooter.vue'
+import TodoFooter from '@/components/todo-item.vue'
 import VueRouter from 'vue-router'
 
 const localVue = createLocalVue()

@@ -1,5 +1,5 @@
 import { mount, createLocalVue } from '@vue/test-utils'
-import TodoApp from '@/components/TodoApp/index.vue'
+import TodoApp from '@/views/todo.vue'
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 

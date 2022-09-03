@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import TodoApp from '@/components/TodoApp'
+import TodoApp from '@/views/todo'
 
 Vue.use(VueRouter)
 

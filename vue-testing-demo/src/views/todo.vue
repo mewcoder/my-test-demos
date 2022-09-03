@@ -32,12 +32,12 @@
 </template>
 
 <script>
-import TodoHeader from './TodoHeader'
-import TodoFooter from './TodoFooter'
-import TodoItem from './TodoItem'
+import TodoHeader from '@/components/todo-header'
+import TodoFooter from '@/components/todo-footer'
+import TodoItem from '@/components/todo-item'
 
 export default {
-  name: 'TodoApp',
+  name: 'Todo',
   components: {
     TodoHeader,
     TodoFooter,
