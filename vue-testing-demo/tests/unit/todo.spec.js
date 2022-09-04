@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import TodoApp from '@views/todo.vue'
+import TodoApp from '@/views/todo.vue'
 import TodoItem from '@/components/todo-item.vue'
 import Vue from 'vue'
 
